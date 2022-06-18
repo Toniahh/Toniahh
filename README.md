@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Toniahh
 - 👀 I’m interested in Web development and product design
-- 🌱 I’m currently learning front end
+- 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on projects relevant to my study
 - 📫 How to reach me buchitoniah@gmail.com
 
